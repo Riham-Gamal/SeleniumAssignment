@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-27T15:49:14 EET" name="Suite1" finished-at="2022-09-27T15:51:16 EET" duration-ms="121904">
+    <groups>
+    </groups>
+    <test started-at="2022-09-27T15:49:14 EET" name="Test1" finished-at="2022-09-27T15:51:16 EET" duration-ms="121904">
+      <class name="Musala_Careers.Musala_Careers_Test">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Musala_Careers.Musala_Careers_Test@78aab498]" started-at="2022-09-27T15:49:44 EET" name="setUp" finished-at="2022-09-27T15:50:01 EET" duration-ms="17422" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:Musala_Careers.Musala_Careers_Test@78aab498]" started-at="2022-09-27T15:50:01 EET" name="goHome" finished-at="2022-09-27T15:50:10 EET" duration-ms="9101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="testCareersPage()[pri:0, instance:Musala_Careers.Musala_Careers_Test@78aab498]" started-at="2022-09-27T15:50:10 EET" name="testCareersPage" finished-at="2022-09-27T15:50:51 EET" duration-ms="40399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCareersPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Musala_Careers.Musala_Careers_Test@78aab498]" started-at="2022-09-27T15:50:51 EET" name="tearDown" finished-at="2022-09-27T15:50:51 EET" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Musala_Careers.Musala_Careers_Test -->
+      <class name="Musala_ContactUs.Musala_ContactUs_Tests">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Musala_ContactUs.Musala_ContactUs_Tests@159f197]" started-at="2022-09-27T15:49:14 EET" name="setUp" finished-at="2022-09-27T15:49:33 EET" duration-ms="18994" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:Musala_ContactUs.Musala_ContactUs_Tests@159f197]" started-at="2022-09-27T15:49:33 EET" name="goHome" finished-at="2022-09-27T15:49:41 EET" duration-ms="8710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="testWrongEmail()[pri:0, instance:Musala_ContactUs.Musala_ContactUs_Tests@159f197]" started-at="2022-09-27T15:49:41 EET" name="testWrongEmail" finished-at="2022-09-27T15:49:44 EET" duration-ms="2093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWrongEmail -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Musala_ContactUs.Musala_ContactUs_Tests@159f197]" started-at="2022-09-27T15:49:44 EET" name="tearDown" finished-at="2022-09-27T15:49:44 EET" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Musala_ContactUs.Musala_ContactUs_Tests -->
+      <class name="Musala_Company.Musala_Company_Test">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Musala_Company.Musala_Company_Test@5dd6264]" started-at="2022-09-27T15:50:51 EET" name="setUp" finished-at="2022-09-27T15:51:07 EET" duration-ms="15813" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:Musala_Company.Musala_Company_Test@5dd6264]" started-at="2022-09-27T15:51:07 EET" name="goHome" finished-at="2022-09-27T15:51:10 EET" duration-ms="2734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="testCompanyPage()[pri:0, instance:Musala_Company.Musala_Company_Test@5dd6264]" started-at="2022-09-27T15:51:10 EET" name="testCompanyPage" finished-at="2022-09-27T15:51:15 EET" duration-ms="5723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompanyPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Musala_Company.Musala_Company_Test@5dd6264]" started-at="2022-09-27T15:51:15 EET" name="tearDown" finished-at="2022-09-27T15:51:16 EET" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Musala_Company.Musala_Company_Test -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
